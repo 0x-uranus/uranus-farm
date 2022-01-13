@@ -1,7 +1,6 @@
 # Tan Farm 💎
 
 ## run tests locally
-1. `cp .env.example .env`
-2. fill in the info in .env file
-3. `yarn && yarn compile && yarn test`
 
+1. fill in the info in .env file
+2. `yarn && yarn compile && yarn test`
